@@ -1,1 +1,1 @@
-var obj = {'Object'}
+var object = {$`recipies`}
