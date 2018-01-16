@@ -1,1 +1,1 @@
-var obj = { foo: 'bar'}
+var typeof = {'object'}
