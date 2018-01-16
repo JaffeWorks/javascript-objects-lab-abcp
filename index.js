@@ -1,1 +1,1 @@
-var typeof = {$`object`}
+var recipes = {}
